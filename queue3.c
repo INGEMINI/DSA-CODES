@@ -1,4 +1,4 @@
-//stack using array using double pointer
+//queue using array using double pointer
 #include <stdio.h>
 #include <stdlib.h>
 

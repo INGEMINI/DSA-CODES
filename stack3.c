@@ -1,4 +1,5 @@
 //stack using link list using single pointer
+//(call by value for link list is single pointer and call by reference for link list is double pointer )
 
 
 #include <stdio.h>

@@ -1,4 +1,4 @@
-//stack using link list 
+//queue using link list 
 #include <stdio.h>
 #include <stdlib.h>
 
